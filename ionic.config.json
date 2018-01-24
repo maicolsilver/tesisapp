@@ -1,6 +1,6 @@
 {
   "name": "apptesis",
-  "app_id": "50fd8a96",
+  "app_id": "fe5ed879",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
